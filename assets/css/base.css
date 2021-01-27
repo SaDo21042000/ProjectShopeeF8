@@ -81,7 +81,7 @@ html{
 /* start: button style */
 
 .btn{
-    min-width: 142px;
+    min-width: 124px;
     height: 34px;
     text-decoration: none;
     border: none;
@@ -94,10 +94,7 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
-    line-height: 1.6rem;
-    
-
-    
+    line-height: 1.6rem;   
 }
 .btn.btn--normal:hover{
     background: rgba(0, 0, 0, 0.15);
